@@ -26,7 +26,7 @@ const Hero = () => {
             DONIUS DARMANYANTO GIAWA
           </h1>
           <h3 className="bg-gradient-to-r to-blue-500 from-pink-500 bg-clip-text text-transparent opacity-80 text-1xl transition-all duration-300 hover:opacity-100 md:text-2xl font-light">
-            Web Developer
+            Fullstack Web Developer
           </h3>
           <p className="md:text-base text-pretty text-sm text-gray-400">
             I am a web developer proficient in HTML, CSS, JavaScript, Tailwind,
